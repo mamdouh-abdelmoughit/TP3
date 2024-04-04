@@ -6,9 +6,7 @@
 <img src="Captures/webapp1.png">
 
 <img src="Captures/webappgestion.png">
-<h4>Base de donnees MySql</h4>
 
-<img src="Captures/PatientmySql.png">
 
 <h4>controller patient</h4>
 
