@@ -21,9 +21,6 @@
 <img src="Captures/RecherchePatientRepo.png">
 
 
-<h5>1/ Controller</h5>
-<img src="Captures/SupController.png">
-
 <h5>3/ test</h5>
 <img src="Captures/test.png">
 
